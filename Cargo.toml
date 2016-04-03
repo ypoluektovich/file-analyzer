@@ -1,0 +1,9 @@
+[package]
+name = "file-analyzer"
+version = "0.1.0"
+authors = ["ypoluektovich"]
+
+[dependencies]
+docopt = "0.6.78"
+rustc-serialize = "0.3"
+
